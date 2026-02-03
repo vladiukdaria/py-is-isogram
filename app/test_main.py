@@ -21,3 +21,4 @@ def test_is_isogram(
     expected: bool,
 ) -> None:
     assert is_isogram(word) is expected
+ 
